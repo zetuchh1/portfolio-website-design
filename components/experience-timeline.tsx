@@ -6,12 +6,12 @@ import { Briefcase } from "lucide-react"
 
 const experiences = [
   {
-    year: "2023 — Present",
-    title: "Senior Full-Stack Developer",
-    company: "Innovative Tech Solutions",
+    year: "2019 — 2021",
+    title: "Usta Kordinatör",
+    company: "Yenilikçi Çözümler",
     description:
-      "Leading development of scalable web applications using Next.js, React, and Node.js. Architecting cloud infrastructure and mentoring junior developers.",
-    technologies: ["Next.js", "TypeScript", "PostgreSQL", "AWS"],
+      "Üretimdeki teknik hassasiyeti ekip ruhuyla birleştirerek, metali ustalığa, emeği yüksek verimliliğe dönüştürme yolculuğu.",
+    technologies: ["Press",],
   },
   {
     year: "2021 — 2023",
@@ -97,9 +97,9 @@ export function ExperienceTimeline() {
           transition={{ duration: 0.6 }}
           className="space-y-4 mb-20"
         >
-          <h2 className="text-5xl md:text-6xl font-bold text-balance">Experience</h2>
+          <h2 className="text-5xl md:text-6xl font-bold text-balance">Deneyimlerim</h2>
           <p className="text-xl text-muted-foreground max-w-2xl leading-relaxed">
-            {"A journey through innovative projects and collaborative teams, building solutions that matter."}
+            {"Sınırları zorlayan fikirleri, disiplinli bir uygulama süreciyle somut başarılara dönüştürme yolculuğu."}
           </p>
         </motion.div>
 
