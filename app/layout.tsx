@@ -8,10 +8,10 @@ const _inter = Inter({ subsets: ["latin"] })
 const _jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Alex Morgan | Full-Stack Developer & Designer",
+  title: "Murat Kaymaz| CV ",
   description:
-    "High-end personal portfolio showcasing expertise in modern web development, UI/UX design, and creative problem solving.",
-  generator: "v0.app",
+    "Teknik ustalığı liderlikle birleştirerek, üretim hattında mükemmellik ve yüksek verimlilik inşa etme yolculuğu.",
+  generator: "Murat Kaymaz",
   icons: {
     icon: [
       {
