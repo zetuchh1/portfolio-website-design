@@ -62,7 +62,7 @@ export function SkillsCloud() {
           transition={{ duration: 0.6 }}
           className="space-y-4 mb-20 text-center"
         >
-          <h2 className="text-5xl md:text-6xl font-bold text-balance">Skills & Expertise</h2>
+          <h2 className="text-5xl md:text-6xl font-bold text-balance">Beceri & Uzmanlık Alanları</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
             {"A diverse toolkit honed through years of building exceptional digital experiences."}
           </p>
@@ -89,7 +89,7 @@ export function SkillsCloud() {
             </p>
 
             <a
-              href="mailto:hello@alexmorgan.com"
+              href="mailto:barissxxd23@gmail.com"
               className="inline-flex items-center gap-3 px-10 py-5 bg-primary text-primary-foreground rounded-full text-lg font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-primary/20"
             >
               <Mail className="w-5 h-5" />
@@ -98,7 +98,7 @@ export function SkillsCloud() {
 
             <div className="flex items-center justify-center gap-8 pt-8">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/murat.kymz_/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors duration-300"
@@ -116,7 +116,7 @@ export function SkillsCloud() {
                 <Linkedin className="w-6 h-6" />
               </a>
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/murat.kaymaz.453"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors duration-300"
@@ -127,7 +127,7 @@ export function SkillsCloud() {
             </div>
 
             <p className="text-sm text-muted-foreground pt-8">
-              © {new Date().getFullYear()} Alex Morgan. All rights reserved.
+              © {new Date().getFullYear()} Murat Kaymaz. Tüm Hakları Gizlidir.
             </p>
           </div>
         </motion.footer>
